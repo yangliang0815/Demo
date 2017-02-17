@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1406615f477028a46a6f73e7db96f467938371de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_03dc6998dbe8afb99e4cd8913773c0799e957c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fb9b4b991f6a8e35fdc3ca66e31a2e0e2043f2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_99d6ad2b54792456ba6903f1040d7ba8ee86e59b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_66bd24a9a05a0737b4b86747583064d99f939a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_f92c9f15407233b5f2cff8ec8c566cdf91fc7042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1149610851d708085de3f4c8d671af6704414e6">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_47307e6768990606eb6dd80de701218e476d9ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_1b904a2e006b448274585a9ba3d2167ec5cc2f98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_400ada249fe1e3470e4564f879e91114b8dd34ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_e8de59254832d8cb26ad86e33322b1745f2f54d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_d10a9fd8484127cb62983b4bf6627e5ae0afecbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="babe74a0d1cfada1c771d64290e307d9f95dddca">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4234b706dd35246d1fe3dad7c81f466a0933f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f92a6823b0bdef58250f17f955197bee7b1a1b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_988c7d280e0b0300c5b75dda19ed42cb0ec73ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_0b2b115caa54e80b2a0c9f539bc1e12773810155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_08e701e003ab1b9af16576ecb0a29eadc616d9f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_85f4d728e28bda0932f4d2ddd59968289b27e091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9a2ef76f758f83cd1d8de2231c70b0a83977732e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3da8bdfa123444ba97d3191dd9634533f2d2b0c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7c539cd240668462d4085fda8ebb3549c6d9c25b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_fd7bf3932cf8758f4cac24813344fa11159c22ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_30daec22830c0347c0448e721b4e48260a5bb425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_95d937861707de7681079d5d8655094240c18e09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_cbc9da7d97065e2209d7b366c7d1aac0f7e0e191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_8194ef1b13846c568fd9288d833f5e2d391add18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5aee4ea88a8caf51831d8136c463c812e98cdd80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_57711409d82c24a6fd9304901eaf7c39c3c986de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_3e86f029a1e66e30086e6ecd7c5a5aded1fd8409\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6fa218c8886cb2dd0ba75ff03e10c363cc428bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0a52cfdc7300701423e332fbba617a58eead980">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e6bd8a68c57d2aaf5a1a3dffa57e91000be9773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_2b6b8b8799df9550ee466982833b757fa594d972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_99facab2ddaf2b09560ac0a216def524abb01c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff35ccad3e93843c8bb1dee8417f910000809e49">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_90791b93847fc93122f881766ccbd3fe171f38a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\myapplication\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_3244d8b9ee52d685bbbbbdf02723c30a707392e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Administrator\Desktop\networkproject\fresco-demo-for-gradle-master\Demo\viewlibrary\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cc1dfa71338b7f09e5a767de4aae0a48bce60b8d\classes.dex" />
+    </item>
+
+</items>
